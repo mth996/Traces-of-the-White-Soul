@@ -35,4 +35,5 @@ design where he suggested some puzzle ideas, enemy placement, and overall level 
 The developer also did unit testing and integration testing.
 
 Trailer link: https://youtu.be/fb-Qhb0WQZA
+
 Gameplay Video Link: https://youtu.be/wSd0UhX89NU
