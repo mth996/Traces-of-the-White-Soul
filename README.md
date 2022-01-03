@@ -33,3 +33,6 @@ mushroom prefabs to save the player position and soul amount. The developer used
 to save and load player positions and soul amount. The developer was also involved in the level
 design where he suggested some puzzle ideas, enemy placement, and overall level suggestions.
 The developer also did unit testing and integration testing.
+
+Trailer link: https://youtu.be/fb-Qhb0WQZA
+Gameplay Video Link: https://youtu.be/wSd0UhX89NU
